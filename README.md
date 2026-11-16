@@ -30,3 +30,25 @@ Asegúrate de tener instalado Python 3.x en tu sistema. Necesitarás las librer�
 
 ```bash
 pip install pandas matplotlib
+
+```
+## Ejecución
+
+* Clona este repositorio o descarga los archivos en una misma carpeta.
+* Abre tu terminal o línea de comandos en la ruta de la carpeta.
+* Ejecuta el script:
+
+```bash
+python visualizador_tufte.py
+```
+Al ejecutarlo, se abrirá una ventana con la gráfica generada automáticamente a partir de los promedios del CSV.
+
+## 📚 Sustento Teórico de las Rúbricas
+
+La recolección de estos datos se fundamenta en la literatura académica:
+
+> Dimensión de Ansiedad y Filtro Afectivo: Basado en los postulados de Richardson & Suinn (1972) sobre la ansiedad matemática, y Krashen (1982) sobre el filtro afectivo.
+
+> Dimensión de Retención Conceptual: Sustentado en los principios de neurodidáctica de Francisco Mora (2013), que ligan la retención a largo plazo con la emoción y el estímulo sensorial.
+
+> Desarrollado por Dr. Alfredo de Jesús Gutiérrez Gómez.
